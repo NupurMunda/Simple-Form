@@ -1,0 +1,84 @@
+div{
+	
+	
+	   letter-spacing: 4px; 
+	text-align: center;
+}
+p.Hi{
+	font-family: Florence, cursive;
+	font-size: 60px;
+	font-weight: bolder;
+	color:#66077b;
+	text-shadow: 10px 5px 8px #efab61;
+	
+}
+span.hii{
+	padding:1px 1px 1px 1px;
+	border: 5px dashed #65def0;
+}
+form.ko{
+	font-family: 'Caflisch Script Pro', cursive,OCR A Std, monospace,Palatino, serif;
+	font-size: 25px;
+	font-weight: bold;
+	text-shadow: 5px 2px 4px #f8ddf6;	
+	color:#480544;
+}
+select.s1{
+	color:#ffffff;
+	background-color:#5911b1;
+	width:130px;
+	font-family:'Rouge Script', cursive;
+	font-size:20px;
+}
+input.s2{
+	color:#ffffff;
+	 background-color:#5911b1;
+	width:100px;
+	height:30px;
+	border-radius: 8px;
+	border: 2px dashed #fae5f9;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+input.el{
+	width:300px;
+	border:2px solid #5911b1;
+	border-radius: 5px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+input.nm{
+	width:250px;
+	border:2px solid #5911b1;
+	border-radius: 5px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+input.cn{
+	width:300px;
+	border:2px solid #5911b1;
+	border-radius: 5px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+input.ad{
+	width:200px;
+	height: 50px;
+	border:2px solid #5911b1;
+	border-radius: 5px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+input.mn{
+	border:2px solid #5911b1;
+	border-radius: 5px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+input.dob{
+	border:2px solid #5911b1;
+	border-radius: 5px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.bimg{
+	height:100%;
+	width:100%;
+	background-image: url("765ccb3f816473e3ab2e0f30163fc5c7.jpg");
+	background-repeat:no-repeat;
+	background-position:center,top;
+
+}
