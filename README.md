@@ -1,2 +1,3 @@
 # Simple-Form
-Its a simple form
+Its a simple form. 
+Created by basic HTML and CSS
